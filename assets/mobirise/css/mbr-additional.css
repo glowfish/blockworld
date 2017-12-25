@@ -1365,12 +1365,12 @@ body {
 }
 .cid-qEQ4u1NVdJ .navbar {
   padding: .5rem 0;
-  background: #333333;
+  background: #000000;
   transition: none;
   min-height: 77px;
 }
 .cid-qEQ4u1NVdJ .navbar-dropdown.bg-color.transparent.opened {
-  background: #333333;
+  background: #000000;
 }
 .cid-qEQ4u1NVdJ a {
   font-style: normal;
@@ -1454,7 +1454,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qEQ4u1NVdJ .dropdown .dropdown-menu {
-  background: #333333;
+  background: #000000;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1747,21 +1747,21 @@ body {
 .cid-qEQrs4a0IA {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/star-like-dark-background-jrthkoxb-f0000-1578x888.png");
 }
 .cid-qEQrs4a0IA H1 {
-  color: #232323;
+  color: #ffffff;
 }
 .cid-qEQrs4a0IA H3 {
-  color: #232323;
+  color: #ffffff;
 }
 .cid-qEQrs4a0IA P {
-  color: #232323;
+  color: #ffffff;
 }
 .cid-qEQ85BvtS5 {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #2e2e2e;
+  background-color: #000000;
 }
 @media (max-width: 767px) {
   .cid-qEQ85BvtS5 .content {
